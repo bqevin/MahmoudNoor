@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">"Mahmoud Noor "</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_expertise">Mahmoud Expertise</string>
+    <string name="title_activity_accomplishments">Mahmoud\'s Accomplishments</string>
+    <string name="title_activity_projects">Ongoing Projects</string>
+    <string name="title_activity_contacts">Get in touch</string>
+    <string name="title_activity_gallery">Noor in lens</string>
+    <string name="talk">Talk to me</string>
+    <string name="text">YES --  I take coffee too. \n Want us to transform community together? Lets meet :)</string>
+    <string name="description">Am charismatic and  passionate about communities and development. \n\nHave initiated a couple of community based organizations here in Coast and work with all of them as a Patron. \n\nCurrently, I consult at Seacom Cable Station as I pay close attention to Swahilipot Hub, a centre established to nurture youths as they transform communities through creative innovations.</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">LETS ENGAGE</string>
+
+    <string name="slide_1_title">Am Mahmoud Noor!</string>
+    <string name="slide_1_desc">A telecom engineer with passion for communities</string>
+
+    <string name="slide_2_title">Fact Check</string>
+    <string name="slide_2_desc">Am married, right-handed, don\'t have cats (not saying I hate em) and love listening to old rocks </string>
+
+    <string name="slide_3_title">When Free</string>
+    <string name="slide_3_desc">I practise photography and mentor young soccer players</string>
+
+    <string name="slide_4_title">Favorite Quote</string>
+    <string name="slide_4_desc">\"The best way to find yourself is to lose yourself in the service of others.\" \n- Mahatma Gandhi</string>
+    <string name="histo1">I Underwent my Electronics and Radio transmission at KCCT (now MMU) and trained on Radio and Broadband at United States Telecommunications Institute in the USA. </string>
+    <string name="histo2">I have worked for 11 years as a Radio and Transmission expert at Telkom Kenya.I was among the team that implemented the GOK connectivity that linked all ministries.</string>
+    <string name="histo3">I worked under TKL Data services and was involved in design, installation, commissioning and maintainance of Data/ Internet network allover Kenya.</string>
+    <string name="histo4">Founded TUMALEO.COM , one of the first online Instant Money Transfer in 1999 and later co-founded Afripayment LLC that started POSTAPAY.</string>
+    <string name="histo5">I joined Seacom as Station Manager and rose to the rank of Regional Operations Manager in North and East Africa . Currently, I\'m a consultant at Seacom Cable Station.</string>
+
+    <!--<string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>-->
+    <!--<string name="play_again">Play Again</string>-->
+</resources>
